@@ -42,7 +42,7 @@ div h1 {
 }
 
 div strong {
-    color: blue;
+    color: #C71585;
     font-size: 14px;
     line-height: 21px;
 
@@ -72,7 +72,13 @@ div a {
 
 }
 
+div a:hover {
+    background-color: #C71585;
+    color: #141414;
+    transition: 0.3s;
 
+
+}
 
 
 
